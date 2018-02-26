@@ -1,0 +1,5 @@
+C:\Work\BLE_Proximity\BLE_Proximity01\BLE_Transfer.cydsn\BLE_Transfer.cyprj|6faf0520-cc21-45ab-ab1f-a4074ef3abb7
+C:\Program Files (x86)\Cypress\PSoC Creator\3.3\PSoC Creator\psoc\content\default\CyAnnotationLibrary\CyAnnotationLibrary.cylib\CyAnnotationLibrary.cyprj|25b1ada2-641c-4f0e-a042-32aa846de236
+C:\Program Files (x86)\Cypress\PSoC Creator\3.3\PSoC Creator\psoc\content\cycomponentlibraryupdates\CyComponentLibraryUpdates.cylib\CyComponentLibraryUpdates.cyprj|e2f987f5-2e48-4ceb-85cd-86fa0fa1e45f
+C:\Program Files (x86)\Cypress\PSoC Creator\3.3\PSoC Creator\psoc\content\cycomponentlibrary\CyComponentLibrary.cylib\CyComponentLibrary.cyprj|3cf94646-f80d-4331-b0cd-4719e591b852
+C:\Program Files (x86)\Cypress\PSoC Creator\3.3\PSoC Creator\psoc\content\cyprimitives\CyPrimitives.cylib\CyPrimitives.cyprj|2374236b-1b66-4a9c-86fa-e4ef866c94f5
